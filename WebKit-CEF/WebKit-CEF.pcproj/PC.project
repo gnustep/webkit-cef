@@ -20,7 +20,8 @@
     "HEADERS_INSTALL_DIR" = "";
     "HEADER_FILES" = (
 	"WebKit.h",
-	"WebView.h"
+	"WebView.h",
+	"WebKit-CEF.h"
     );
     IMAGES = (
     );
@@ -55,7 +56,8 @@
     "PUBLIC_HEADERS" = (
 	"WebKit-CEF.h",
 	"WebKit.h",
-	"WebView.h"
+	"WebView.h",
+	"WebKit-CEF.h"
     );
     "SEARCH_HEADER_DIRS" = (
     );

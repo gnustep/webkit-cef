@@ -35,7 +35,8 @@ WebKit-CEF_DEPLOY_WITH_CURRENT_VERSION = yes
 WebKit-CEF_HEADER_FILES = \
 WebKit-CEF.h \
 WebKit.h \
-WebView.h 
+WebView.h \
+WebKit-CEF.h 
 
 #
 # Objective-C Class files
